@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="600.0" fitWidth="800.0" pickOnBounds="true" preserveRatio="true" style="-fx-blend-mode: 40;">
+         <image>
+            <Image url="@firstpage.png" />
+         </image>
+      </ImageView>
+      <Text fill="WHITE" fontSmoothingType="LCD" layoutX="80.0" layoutY="201.0" strokeType="OUTSIDE" strokeWidth="0.0" style="-fx-effect: blur; -fx-opacity: 100;" text="Trending movies , stage shows  and more " wrappingWidth="551.910888671875">
+         <font>
+            <Font name="Yu Gothic UI Semibold" size="51.0" />
+         </font>
+      </Text>
+      <Text fill="WHITE" layoutX="92.0" layoutY="339.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Find the latest movies and shows  using our application" wrappingWidth="426.13671875">
+         <font>
+            <Font name="Yu Gothic UI Regular" size="17.0" />
+         </font>
+      </Text>
+      <Button layoutX="64.0" layoutY="383.0" mnemonicParsing="false" prefHeight="53.0" prefWidth="187.0" style="-fx-background-color: C70039; -fx-background-radius: 15;" text="get started" textFill="WHITE">
+         <font>
+            <Font name="Yu Gothic UI Semibold" size="19.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

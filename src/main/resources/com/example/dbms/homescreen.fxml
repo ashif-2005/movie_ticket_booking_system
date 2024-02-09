@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: black;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.dbms.homecontroller">
+   <children>
+      <Pane prefHeight="61.0" prefWidth="800.0" style="-fx-background-color: #262626;">
+         <children>
+            <Text fill="WHITE" layoutX="151.0" layoutY="44.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Movie Ticket Booking System">
+               <font>
+                  <Font name="Californian FB Bold" size="39.0" />
+               </font>
+            </Text>
+         </children>
+      </Pane>
+      <TextField layoutX="119.0" layoutY="74.0" prefHeight="25.0" prefWidth="511.0" promptText="Search" style="-fx-border-radius: 20; -fx-background-color: trans; -fx-border-color: grey; -fx-border-width: 2;">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </TextField>
+      <Button layoutX="634.0" layoutY="75.0" mnemonicParsing="false" prefHeight="32.0" prefWidth="39.0" style="-fx-background-color: trabs; -fx-border-color: grey; -fx-border-radius: 20; -fx-border-width: 2;" />
+      <ImageView fitHeight="23.0" fitWidth="28.0" layoutX="642.0" layoutY="79.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@picture/icons8-search-50.png" />
+         </image>
+      </ImageView>
+      <ScrollPane layoutY="123.0" prefHeight="478.0" prefWidth="800.0">
+         <content>
+            <Pane prefHeight="620.0" prefWidth="800.0" style="-fx-background-color: black;">
+               <children>
+                  <ScrollPane layoutY="42.0" prefHeight="330.0" prefWidth="800.0">
+                     <content>
+                        <HBox fx:id="trending" prefHeight="368.0" prefWidth="786.0" style="-fx-background-color: black;" />
+                     </content>
+                  </ScrollPane>
+                  <ScrollPane layoutY="416.0" prefHeight="200.0" prefWidth="800.0">
+                     <content>
+                        <HBox fx:id="filim" prefHeight="300.0" prefWidth="800.0" style="-fx-background-color: black;" />
+                     </content>
+                  </ScrollPane>
+               </children>
+            </Pane>
+         </content>
+      </ScrollPane>
+   </children>
+</Pane>

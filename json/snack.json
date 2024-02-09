@@ -1,0 +1,54 @@
+[
+    {
+        "snack name" : "Pop Corn",
+        "price" : 80,
+        "index" : "a"
+    },
+    {
+        "snack name" : "Hot Dog",
+        "price" : 120,
+        "index" : "b"
+    },
+    
+    {
+        "snack name" : "French Fries",
+        "price" : 60,
+        "index" : "c"
+    },
+    {
+        "snack name" : "Smileys",
+        "price" : 80,
+        "index" : "d"
+    },
+    {
+        "snack name" : "Soft Drinks",
+        "price" : 70,
+        "index" : "e"
+    },
+    {
+        "snack name" : "Burger",
+        "price" : 100,
+        "index" : "f"
+    },
+    {
+        "snack name" : "Milkshakes",
+        "price" : 110,
+        "index" : "g"
+    },
+    {
+        "snack name" : "Coffee",
+        "price" : 20,
+        "index" : "h"
+    },
+    {
+        "snack name" : "Puffs",
+        "price" : 40 ,
+        "index" : "i"
+    },
+    {
+        "snack name" : "Ice Cream",
+        "price" : 60,
+        "index" : "j"
+    }
+
+]

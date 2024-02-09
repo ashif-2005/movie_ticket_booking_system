@@ -1,0 +1,288 @@
+[
+    {
+        "movie name" : "Leo",
+        "rating " : "8.3",
+        "ticket price" : 500,
+        "genre" : "Action ",
+        "index" : "1"
+    },
+    {
+        "movie name" : "Kaithi",
+        "rating " : "8.4",
+        "ticket price" :400,
+        "genre" : "Action  ",
+        "index" : "2"
+    },
+    {
+        "movie name" : "Anjaan ",
+        "rating " : "7.7",
+        "ticket price" : 300,
+        "genre" : "Action  ",
+        "index" : "3"
+    },
+    
+    {
+        "movie name" : "LGK ",
+        "rating " : "7.9",
+        "ticket price" : 300,
+        "genre" : "Comedy ",
+        "index" : "4"
+    },
+    {
+        "movie name" : "96",
+        "rating " : "8.5",
+        "ticket price" : 400,
+        "genre" : "Romance ",
+        "index" : "5"
+    },
+    {
+        "movie name" : "Vikram Vedha ",
+        "rating " : "8.7",
+        "ticket price" : 400,
+        "genre" : "Action  ",
+        "index" : "6"
+    },
+    {
+        "movie name" : "Dhilluku Dhuddu",
+        "rating " : "7.5",
+        "ticket price" : 300,
+        "genre" : "Comedy  ",
+        "index" : "7"
+    },
+    {
+        "movie name" : "Sulthan ",
+        "rating " : "7.5",
+        "ticket price" : 300,
+        "genre" : "Action  ",
+        "index" : "8"
+    },
+    {
+        "movie name" : "Friends",
+        "rating " : "7.2",
+        "ticket price" : 300,
+        "genre" : "Comedy  ",
+        "index" : "9"
+    },
+    {
+        "movie name" : "Hi Nanna ",
+        "rating " : "9.0",
+        "ticket price" : 500,
+        "genre" : "Romance ",
+        "index" : "10"
+    },
+    {
+        "movie name" : "Papanasam  ",
+        "rating " : "9.2",
+        "ticket price" : 500,
+        "genre" : "Thriller ",
+        "index" : "11"
+    },
+    {
+        "movie name" : "Irumugan ",
+        "rating " : "7.2",
+        "ticket price" : 400,
+        "genre" : "Thriller ",
+        "index" : "12"
+    },
+    
+    {
+        "movie name" : "Kedi Billa Killadi Ranga ",
+        "rating " : "7.0",
+        "ticket price" : 300,
+        "genre" : "Comedy ",
+        "index" : "13"
+    },
+    {
+        "movie name" : "Nannbenda ",
+        "rating " : "7.2",
+        "ticket price" : 300,
+        "genre" : "Comedy ",
+        "index" : "14"
+    },
+    {
+        "movie name" : "Bigil ",
+        "rating " : "7.8",
+        "ticket price" : 300,
+        "genre" : "Comedy ",
+        "index" : "15"
+    },
+    {
+        "movie name" : "Indru Netru Naalai ",
+        "rating " : "7.9",
+        "ticket price" : 300,
+        "genre" : "Comedy ",
+        "index" : "16"
+    },
+    {
+        "movie name" : "Pyaar Prema Kaadhal ",
+        "rating " : "7.7",
+        "ticket price" : 300,
+        "genre" : "Romance ",
+        "index" : "17"
+    },
+    {
+        "movie name" : "I",
+        "rating " : "7.6",
+        "ticket price" : 400,
+        "genre" : "Thriller ",
+        "index" : "18"
+    },
+    {
+        "movie name" : "Vishwaroopam ",
+        "rating " : "8.8",
+        "ticket price" : 500,
+        "genre" : "Action  ",
+        "index" : "19"
+    },
+    {
+        "movie name" : "Iravukku Aayiram Kangal ",
+        "rating " : "7.5",
+        "ticket price" : 300,
+        "genre" :  "Thriller ",
+        "index" : "20"
+    },
+    {
+        "movie name" : "Kushi ",
+        "rating " : "8.5",
+        "ticket price" : 500,
+        "genre" : "Romance ",
+        "index" : "21"
+    },
+    {
+        "movie name" : "Nanban  ",
+        "rating " : "8.6",
+        "ticket price" : 300,
+        "genre" : "Comedy  ",
+        "index" : "22"
+    },
+    {
+        "movie name" : "Sillunu Oru Kaadhal ",
+        "rating " : "8.5",
+        "ticket price" : 400,
+        "genre" : "Romance ",
+        "index" : "23"
+    },
+    {
+        "movie name" : "Soorarai Pottru ",
+        "rating " : "8.7",
+        "ticket price" : 500,
+        "genre" : "Action  ",
+        "index" : "24"
+    },
+    {
+        "movie name" : "Kaappaan ",
+        "rating " : "7.4",
+        "ticket price" : 300,
+        "genre" : "Action  ",
+        "index" : "25"
+    },
+    {
+        "movie name" : "Indian ",
+        "rating " : "9.3",
+        "ticket price" : 500,
+        "genre" : " Action  ",
+        "index" : "26"
+    },
+    {
+        "movie name" : "Ratsasan  ",
+        "rating " : "9.0" ,
+        "ticket price" : 500,
+        "genre" : "Thriller  ",
+        "index" : "27"
+    },
+    {
+        "movie name" : " 3 ",
+        "rating " : "8.9",
+        "ticket price" : 400,
+        "genre" : "Romance  ",
+        "index" : "28"
+    },
+    {
+        "movie name" : "Engeyum Kaadhal ",
+        "rating " : "7.2",
+        "ticket price" : 300,
+        "genre" : "Romance  ",
+        "index" : "29"
+    },
+    {
+        "movie name" : "Mudhal Nee Mudivum Nee  ",
+        "rating " : "9.3",
+        "ticket price" : 500,
+        "genre" : " Romance ",
+        "index" : "30"
+    },
+    {
+        "movie name" : " Thuppakki ",
+        "rating " : "8.6",
+        "ticket price" : 400,
+        "genre" : "Action  ",
+        "index" : "31"
+    },
+    {
+        "movie name" : "U Turn ",
+        "rating " : "8.4",
+        "ticket price" : 300,
+        "genre" : "Thriller  ",
+        "index" : "32"
+    },
+    {
+        "movie name" : "Doctor  ",
+        "rating " : "8.6",
+        "ticket price" : 300,
+        "genre" : " Comedy ",
+        "index" : "33"
+    },
+
+    {
+        "movie name" : "Kuttram 23  ",
+        "rating " : "8.4",
+        "ticket price" : 300,
+        "genre" : "Thriller  ",
+        "index" : "34"
+    },
+    {
+        "movie name" : " Alaipayuthey ",
+        "rating " : "8.8",
+        "ticket price" : 400,
+        "genre" : "Romance  ",
+        "index" : "35"
+    },
+    {
+        "movie name" : "Vellai Pookal  ",
+        "rating " : "9.1",
+        "ticket price" : 400,
+        "genre" : " Thriller ",
+        "index" : "36"
+    },
+    {
+        "movie name" : "Manmadan Ambu  ",
+        "rating " : "7.1",
+        "ticket price" : 300,
+        "genre" : "Comedy  ",
+        "index" : "37"
+    },
+    
+    {
+        "movie name" : "Dhuruvangal Pathinaaru",
+        "rating " : "7.3",
+        "ticket price" : 300,
+        "genre" : "Thriller  ",
+        "index" : "38"
+    },
+    {
+        "movie name" : "Kaaviya Thalaivan ",
+        "rating " : "8.0",
+        "ticket price" : 300,
+        "genre" : " Romance ",
+        "index" : "39"
+    },
+    {
+        "movie name" : " Aayirathil Oruvan",
+        "rating " : "8.2",
+        "ticket price" : 300,
+        "genre" : " Thriller ",
+        "index" : "40"
+    }
+    
+]
+   

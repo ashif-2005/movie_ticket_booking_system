@@ -1,0 +1,72 @@
+[
+    {
+        "movie name" : "Oh kadhal Kanmani  ",
+        "rating " : "9.7",
+        "ticket price" : 400,
+        "genre" : " Romance ",
+        "index" : "41"
+    },
+    {
+        "movie name" : "Neethaane En Ponvasantham  ",
+        "rating " : "8.5",
+        "ticket price" : 300,
+        "genre" : " Romance ",
+        "index" : "42"
+    },
+    {
+        "movie name" : "Vinaithandi Varuvaya  ",
+        "rating " : "9.5",
+        "ticket price" : 500,
+        "genre" : "Romance  ",
+        "index" : "43"
+    },
+    {
+        "movie name" : "Vaaranam Aairam ",
+        "rating " : "9.0",
+        "ticket price" : 300,
+        "genre" : "Romance ",
+        "index" : "44"
+    },
+    {
+        "movie name" : "Sita Raman  ",
+        "rating " : "8.8",
+        "ticket price" : 400,
+        "genre" : "Romance  ",
+        "index" : "45"
+    },
+    {
+        "movie name" : "KGF Chapter 1 ",
+        "rating " : "9.5",
+        "ticket price" : 400,
+        "genre" : " Action  ",
+        "index" : "46"
+    },
+    {
+        "movie name" : "Vikram ",
+        "rating " : "8.2",
+        "ticket price" : 300,
+        "genre" : "Action  ",
+        "index" : "47"
+    },
+    {
+        "movie name" : "Master ",
+        "rating " : "8.0",
+        "ticket price" : 300,
+        "genre" : "Action  ",
+        "index" : "48"
+    },
+    {
+        "movie name" : "Mankatha ",
+        "rating " : "8.4",
+        "ticket price" : 300,
+        "genre" : "Action  ",
+        "index" : "49"
+    },
+    {
+        "movie name" : "Jagame Thandhiram  ",
+        "rating " : "7.9",
+        "ticket price" : 300,
+        "genre" : " Action  ",
+        "index" : "50"
+    }
+]
